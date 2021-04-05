@@ -24,6 +24,7 @@ Things you may want to cover:
 * ...
 
 # https://medium.com/@oliver.seq/creating-a-rest-api-with-rails-2a07f548e5dc
+# https://code.tutsplus.com/id/articles/crafting-apis-with-rails--cms-27695
 # generate project with api mode with database connections
   * $ rails new rest-api-guide --api --database=postgresql
 # generate project with model
